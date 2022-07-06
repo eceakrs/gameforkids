@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Learn with Fun!</string>
+    <string name="title_placeholder">Title</string>
+    <string name="instruction_placeholder">Instruction</string>
+    <string name="games_info_placeholder">The games you can play: </string>
+    <string name="video_id">Learn with fun</string>
+<string name="watch_avatar_desc">Lets watch the video to learn, then click play!</string>
+    <string-array name="subtitle_detail_text">
+        <item>Please watch the video that will teach you about the clock!
+            If you want to play the game without watching the video, you can
+        press the PLAY button :) </item>
+        <item>Please watch the video that will teach you about the seasons!
+            If you want to play the game without watching the video, you can
+        press the PLAY button :) </item>
+        <item>Please watch the video that will teach you about the days of the week!
+            If you want to play the game without watching the video, you can
+        press the PLAY button :) </item>
+        <item>Please watch the video that will teach you about the months!
+            If you want to play the game without watching the video, you can
+        press the PLAY button :) </item>
+        <item>Please watch the video that will teach you about the digits!
+            If you want to play the game without watching the video, you can
+        press the PLAY button :) </item>
+        <item>Please watch the video that will teach you about the spelling bee!
+            If you want to play the game without watching the video, you can
+        press the PLAY button :) </item>
+        <item>Please watch the video that will teach you about the directions!
+            If you want to play the game without watching the video, you can
+        press the PLAY button :) </item>
+        <item>Please watch the video that will teach you about the multiplication!
+            If you want to play the game without watching the video, you can
+        press the PLAY button :) </item>
+        <item>You have to find the similar pictures!
+            If you want to play the game, you can
+        press the PLAY button :) </item>
+        <item>You have to follow the ball with your eyes!
+            If you want to play the game, you can
+        press the PLAY button :) </item>
+    </string-array>
+
+
+    <string-array name="games_titles">
+        <item>Clock Game</item>
+        <item>Seasons Game</item>
+        <item>Days of the Week Game</item>
+        <item>Months Game</item>
+        <item>Digit Game</item>
+        <item>Spelling Bee</item>
+        <item>Directions Game</item>
+        <item>Multiplication Game</item>
+        <item>Similar Pictures Game</item>
+        <item>Follow the Ball Game</item>
+
+    </string-array>
+
+    <string-array name="games_info">
+        <item>Welcome to the Clock Game!</item>
+        <item>Welcome to the Seasons Game!</item>
+        <item>Welcome to the Days of the Week Game!</item>
+        <item>Welcome to the Months Game!</item>
+        <item>Welcome to the Digit Game!</item>
+        <item>Welcome to the Spelling Bee Game!</item>
+        <item>Welcome to the Learning the Directions Game!</item>
+        <item>Welcome to the Multiplication Game!</item>
+        <item>Welcome to the Similar Pictures Game!</item>
+        <item>Welcome to the Follow the Ball Game!</item>
+
+    </string-array>
+
+    <array name="games_images">
+        <item>@drawable/img_clock</item>
+        <item>@drawable/img_seasons</item>
+        <item>@drawable/img_daysoftheweek</item>
+        <item>@drawable/img_months</item>
+        <item>@drawable/img_digit</item>
+        <item>@drawable/img_spellingbee</item>
+        <item>@drawable/img_directions</item>
+        <item>@drawable/img_multiplication</item>
+        <item>@drawable/img_similarpictures</item>
+        <item>@drawable/img_ball</item>
+    </array>
+
+<string-array name="video_id_arr">
+    <item>EIxaxnageTo</item>
+    <item>owppK-GHPTU</item>
+    <item>xPq1KrYWbqo</item>
+    <item>Fe9bnYRzFvk</item>
+    <item>t7w3PHgvKJE</item>
+    <item>vwPSswV1O64</item>
+    <item>DPYJQSA-x50</item>
+    <item>eW2dRLyoyds</item>
+    <item>0</item>
+    <item>DPg0x_nVPXg</item>
+</string-array>
+
+</resources>

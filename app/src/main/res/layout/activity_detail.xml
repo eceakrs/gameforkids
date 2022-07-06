@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<RelativeLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    tools:context=".DetailActivity"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gamesImageDetail"
+        android:adjustViewBounds="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark"
+        android:id="@+id/titleDetail"
+        android:layout_alignBottom="@id/gamesImageDetail"
+        android:text="@string/title_placeholder"
+        android:padding="16dp"
+        style="@style/TextAppearance.AppCompat.Headline"/>
+
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:id="@+id/activity_main_youtubePlayerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+
+        />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:id="@+id/letswatchavatar"
+        android:contentDescription="Let's watch the video to learn, then click play!"
+        android:layout_below="@id/activity_main_youtubePlayerView"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/avatardescription"
+        android:text="Let's watch the video to learn, then click play!"
+        android:layout_below="@id/letswatchavatar"
+       android:textSize="20sp"
+        />
+
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+android:id="@+id/buttonplay"
+    android:text="Play"
+
+    android:layout_below="@id/avatardescription"
+    />
+</RelativeLayout>
+
+</ScrollView>
+
+
+

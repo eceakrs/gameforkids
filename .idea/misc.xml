@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/activity_clock_game.xml" value="0.3625" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/activity_days_game.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/activity_detail.xml" value="0.1757852077001013" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/activity_digit_game.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/activity_direction_game.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/activity_false.xml" value="0.3625" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/activity_game.xml" value="0.275" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/activity_login.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/activity_months_game.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/activity_multiplication_game.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/activity_seasons_game.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/activity_signup.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/activity_similarpics_game.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/activity_spellingbee_game.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/activity_true.xml" value="0.3625" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/false_days.xml" value="1.8392857142857142" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/false_digit.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/false_direction.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/false_months.xml" value="1.712171052631579" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/false_multiplication.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/false_seasons.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/false_similarpics.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/list_item.xml" value="0.17401215805471124" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/true_days.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/true_digit.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/true_direction.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/true_months.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/true_multiplicatipn.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/true_seasons.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/eceak/Desktop/classes/COMP4107/gameforkids/app/src/main/res/layout/true_similarpics.xml" value="0.23958333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
